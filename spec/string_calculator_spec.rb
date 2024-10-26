@@ -2,9 +2,6 @@
 require 'spec_helper'
 require_relative '../string_calculator'
 
-# string_calculator_spec.rb
-require './string_calculator'
-
 RSpec.describe StringCalculator do
   describe '.add' do
     it 'returns 0 for an empty string' do
