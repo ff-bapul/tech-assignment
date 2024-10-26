@@ -1,7 +1,5 @@
 # spec/your_code_spec.rb
 require 'spec_helper'
-require_relative '../string_calculator'
-
 # string_calculator_spec.rb
 require './string_calculator'
 
